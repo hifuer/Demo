@@ -1,2 +1,10 @@
 hello world
 hell shiyanlou
+git add .
+git config --global user.name 'hifuer'
+git config --global user.email 'hifuer@qq.com'
+git status
+git commit -m 'update one.txt'
+git remote add orign 链接
+git push orign masher
+git clone 链接
